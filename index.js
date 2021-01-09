@@ -1,7 +1,7 @@
-const  XBOT = 'AMPIBI'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/affis_saputro123'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+6282334297175'; // Nomor whatsapplu cok
-const aktif = 'Tergantung kuota'; // Kapan bot lu aktif
+const  XBOT = 'SA'; // Nama Bot Whatsapp
+const instagram = 'ga ada Instagram :*)'; // Nama Instagramlu cok
+const nomer = 'https://Wa.me/+6281524436349'; // Nomor whatsapplu cok
+const aktif = 'Tergantung ownernya'; // Kapan bot lu aktif
 const groupwa = 'comming soon'; // OFFICIAL GRUP LU 1
 const youtube = 'https://youtube.com/channel/UCYKxsg7iF9a9IZyXQRNsvqw'; 
 const qrcode = require("qrcode-terminal");
